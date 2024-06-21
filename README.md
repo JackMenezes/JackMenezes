@@ -9,7 +9,7 @@
 ##
 
 # Languages
-[![Delphi](https://img.shields.io/badge/delphi-black?style=for-the-badge&logo=delphi)](https://github.com/shaunroselt)
+![Delphi](https://img.shields.io/badge/delphi-black?style=for-the-badge&logo=delphi)
 <div style="display: inline_block"><br>
   <img align="center" alt="Jackson-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jackson-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
